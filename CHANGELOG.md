@@ -162,6 +162,26 @@ Note: Can be used with `oxsecurity/megalinter@beta` in your GitHub Action mega-l
   - [checkov](https://www.checkov.io/) from 2.3.206 to **2.3.212** on 2023-04-30
   - [syft](https://github.com/anchore/syft) from 0.76.1 to **0.79.0** on 2023-04-30
   - [jscpd](https://github.com/kucherenko/jscpd/tree/master/packages/jscpd) from 3.5.5 to **3.5.8** on 2023-05-02
+  - [bicep_linter](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/linter) from 0.16.2 to **0.17.1** on 2023-05-07
+  - [jscpd](https://github.com/kucherenko/jscpd/tree/master/packages/jscpd) from 3.5.8 to **3.5.9** on 2023-05-07
+  - [csharpier](https://csharpier.com/) from 0.24.1 to **0.24.2** on 2023-05-07
+  - [stylelint](https://stylelint.io) from 15.6.0 to **15.6.1** on 2023-05-07
+  - [eslint](https://eslint.org) from 8.39.0 to **8.40.0** on 2023-05-07
+  - [v8r](https://github.com/chris48s/v8r) from 1.0.0 to **2.0.0** on 2023-05-07
+  - [psalm](https://psalm.dev) from Psalm.5.9.0@ to **Psalm.5.11.0@** on 2023-05-07
+  - [protolint](https://github.com/yoheimuta/protolint) from 0.43.2 to **0.44.0** on 2023-05-07
+  - [pylint](https://pylint.pycqa.org) from 2.17.3 to **2.17.4** on 2023-05-07
+  - [pyright](https://github.com/Microsoft/pyright) from 1.1.305 to **1.1.306** on 2023-05-07
+  - [ruff](https://github.com/charliermarsh/ruff) from 0.0.263 to **0.0.265** on 2023-05-07
+  - [checkov](https://www.checkov.io/) from 2.3.212 to **2.3.224** on 2023-05-07
+  - [semgrep](https://semgrep.dev/) from 1.20.0 to **1.21.0** on 2023-05-07
+  - [syft](https://github.com/anchore/syft) from 0.79.0 to **0.80.0** on 2023-05-07
+  - [sfdx-scanner-apex](https://forcedotcom.github.io/sfdx-scanner/) from 3.11.0 to **3.12.0** on 2023-05-07
+  - [sfdx-scanner-aura](https://forcedotcom.github.io/sfdx-scanner/) from 3.11.0 to **3.12.0** on 2023-05-07
+  - [sfdx-scanner-lwc](https://forcedotcom.github.io/sfdx-scanner/) from 3.11.0 to **3.12.0** on 2023-05-07
+  - [snakemake](https://snakemake.readthedocs.io/en/stable/) from 7.25.2 to **7.25.3** on 2023-05-07
+  - [sqlfluff](https://www.sqlfluff.com/) from 2.0.7 to **2.1.0** on 2023-05-07
+  - [terragrunt](https://terragrunt.gruntwork.io) from 0.45.6 to **0.45.9** on 2023-05-07
 <!-- linter-versions-end -->
 
 ## [v6.22.2] - 2023-04-03
